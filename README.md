@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **roehitr1@gmail.com**
 
-- 📄 Know about my experiences [roehit.xyz](roehit.xyz)
+- 📄 Know about my experiences [roehit.tech](roehit.tech)
 
 
 
