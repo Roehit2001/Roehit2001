@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://static01.nyt.com/images/2020/07/02/business/02Techfix-illo/01Techfix-illo-jumbo.gif?quality=90&auto=webp" alt="cover" />
+<img align="center" width="75%" height = "75%" src="https://static01.nyt.com/images/2020/07/02/business/02Techfix-illo/01Techfix-illo-jumbo.gif?quality=90&auto=webp" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
